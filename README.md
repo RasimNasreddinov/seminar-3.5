@@ -1,1 +1,3 @@
-# seminar-3.5
+# seminar-3.5 
+
+Rasim Samirovich
